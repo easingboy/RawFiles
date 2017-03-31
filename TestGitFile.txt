@@ -1,3 +1,12 @@
+master 1
+master 2
+master 3
+master 4
 主要用来存一些文件，当文件服务器 2.master commit 1
 主要用来存一些文件，当文件服务器
 1. dd提交1
+
+dd1
+dd2
+dd3
+dd4
