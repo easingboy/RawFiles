@@ -11,3 +11,4 @@ dd2
 dd3
 dd4
 dd_rebase commit 1
+dd_rebase commit 2
