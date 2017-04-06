@@ -4,7 +4,7 @@ master 3
 master 4
 主要用来存一些文件，当文件服务器 2.master commit 1
 主要用来存一些文件，当文件服务器
-1. dd提交1
+1. dd提交1 (dd_rebase修改)
 
 dd1
 dd2
