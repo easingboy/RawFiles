@@ -8,7 +8,7 @@ master 4
 1. dd提交1 (master修改)
 1. dd提交1 (dd_rebase修改)
 
-master+change
+master+change2
 
 dd1
 dd2
