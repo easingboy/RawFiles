@@ -8,6 +8,8 @@ master 4
 1. dd提交1 (master修改)
 1. dd提交1 (dd_rebase修改)
 
+master+change
+
 dd1
 dd2
 dd3
