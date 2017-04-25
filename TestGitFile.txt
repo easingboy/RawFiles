@@ -19,3 +19,4 @@ dd_rebase commit 2
 
 =========
 dev+change1
+master+change2
